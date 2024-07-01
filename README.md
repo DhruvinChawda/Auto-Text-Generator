@@ -1,5 +1,6 @@
 # Auto-Text-Generator
 Auto-Text-Generator using LSTM
+This Model automatically suggests or generate further text based to incomplete provided text. As this project serves as great source to understand the concepts of LSTM and real world usage.
 
 Output snapshots :- 
 
